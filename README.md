@@ -34,7 +34,7 @@ Languages & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,flask,fastapi,azure,vscode,postman,mysql" />
-</p>---
+</p>
 
 🚀 Current Focus
 
@@ -74,9 +74,7 @@ Languages & Tools
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ritesh-nagtilak&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-nagtilak&theme=tokyonight&hide_border=true"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-nagtilak&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
 
 🤝 Let's Connect
 
