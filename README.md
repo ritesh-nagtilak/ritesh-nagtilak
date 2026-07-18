@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Nagtilak</h1><h3 align="center">Oracle Technical Consultant • Oracle Fusion Cloud • Oracle Integration Cloud (OIC) • Python Developer</h3><p align="center">
 Passionate about building enterprise solutions, automating business processes, and continuously learning new technologies.
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritesh-nagtilak&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>---
+</p>
 
 👨‍💻 About Me
 
