@@ -78,12 +78,6 @@ Languages & Tools
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh-nagtilak&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ritesh-nagtilak&theme=tokyonight&no-frame=true&margin-w=8"/>
-</p>---
-
 🤝 Let's Connect
 
 I'm always open to collaborating on:
